@@ -510,5 +510,13 @@
     "logoURI": "https://files.sablier.com/tokens/PMX.png",
     "name": "Primex Finance",
     "symbol": "PMX"
+  },
+  {
+    "address": "0x84eBc138F4Ab844A3050a6059763D269dC9951c6",
+    "chainId": 137,
+    "decimals": 6,
+    "logoURI": "https://github.com/Fishcake-Labs/image-/blob/91b8a73a1d872ce786f03efe34f255e8171bf635/FCC%20Icon-256x256.png",
+    "name": "Fishcake Coin",
+    "symbol": "FCC"
   }
 ]
